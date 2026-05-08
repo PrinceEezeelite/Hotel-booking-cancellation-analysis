@@ -1,5 +1,6 @@
-🏨 Hotel Booking Cancellation Analysis
-📌 Project Background
+## 🏨 Hotel Booking Cancellation Analysis
+
+## Project Background
 
 Hotels frequently experience booking cancellations, leading to:
 
@@ -9,13 +10,13 @@ Poor operational forecasting
 
 In this project, I analyzed hotel booking data to uncover the major drivers of booking cancellations and built a machine learning model capable of predicting high-risk cancellations.
 
-The project combines:
+## The project combines:
 
 Data Cleaning
 Exploratory Data Analysis (EDA)
 Business Insight Generation
 Predictive Modeling
-🎯 Business Problem
+## Business Problem
 
 Hotel cancellations create uncertainty in:
 
