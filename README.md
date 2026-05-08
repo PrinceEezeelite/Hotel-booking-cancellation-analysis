@@ -249,23 +249,35 @@ Use predictive systems to proactively identify high-risk cancellations.
 
 ## Project Structure
 Hotel-booking-cancellation-analysis/
-- │├── data/
-│├── notebooks/
-│   └── Hotel_booking_analysis.ipynb
-│├── dashboard/│├── images/
-│└── README.md
+│
+├── data/
+│
+├── notebooks/
+│  
+└── Hotel_booking_analysis.ipynb
+│
+├── dashboard/
+│
+├── images/
+│
+└── README.md
 
-📷 Project Visuals
+## Project Visuals
 Exploratory Data Analysis
-(Add charts/screenshots here)
+<img width="846" height="620" alt="Cancellation Rate by Market Segment" src="https://github.com/user-attachments/assets/127e9c85-eb6b-4e08-a6a6-e073b928a666" />
+<img width="589" height="453" alt="Cancellation Distribution" src="https://github.com/user-attachments/assets/5fb6b4fb-0d44-43ea-bdc8-84e8b9d4a884" />
+<img width="567" height="453" alt="Cancellation Rate by Lead Time Group" src="https://github.com/user-attachments/assets/e4238e0c-a459-4920-a0ae-9d594a76e0a7" />
+
 
 ROC Curve
-(Add ROC curve screenshot here)
+<img width="691" height="545" alt="roc_curve" src="https://github.com/user-attachments/assets/d17b62b9-75a7-4935-a8dd-ca42d342665a" />
+
 
 Feature Importance
-(Add feature importance screenshot here)
+<img width="304" height="204" alt="Features important" src="https://github.com/user-attachments/assets/1d3a33ca-106e-4400-8c38-46eade9187c4" />
 
-🚀 Future Improvements
+
+## Future Improvements
 
 
 Random Forest & XGBoost models
@@ -284,9 +296,9 @@ Streamlit web application
 
 
 
-👤 Author
+## Author
 PrinceEezeelite
-Aspiring Data Analyst focused on:
+## Aspiring Data Analyst focused on:
 
 
 Data Analytics
@@ -302,7 +314,7 @@ Data-driven decision making
 
 
 
-⭐ Project Status
+## Project Status
 ✅ Completed
 ✅ Portfolio Ready
 ✅ Open for collaboration and feedback
