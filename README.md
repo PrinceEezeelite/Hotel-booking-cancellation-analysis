@@ -140,7 +140,7 @@ Bookings without deposits experienced the highest cancellation rates.
 🔹 Online Travel Agents (OTA)
 Bookings made through online travel agencies showed increased cancellation behavior compared to direct bookings.
 
-#🔹 Previous Cancellations
+🔹 Previous Cancellations
 Customers with a history of cancellations were more likely to cancel future bookings.
 
 ##💡 Business Insight
@@ -165,7 +165,7 @@ Encouraging personalized booking experiences
 The final phase focused on building a predictive model capable of identifying high-risk cancellations.
 
 ## 🤖 Model Development Process
-### Steps Performed:
+## Steps Performed:
 
 
 Feature selection
@@ -187,7 +187,7 @@ Performance evaluation
 
 
 
-📈 Model Evaluation
+## 📈 Model Evaluation
 Evaluation Techniques:
 
 
@@ -207,10 +207,10 @@ Feature Importance Analysis
 
 
 
-📊 Model Performance
+## Model Performance
 MetricScoreAccuracy76%Recall (Cancellation Detection)79%AUC Score0.85
 
-🧠 Model Interpretation
+## Model Interpretation
 The model demonstrated strong ability to distinguish canceled bookings from non-canceled bookings.
 Most Influential Features:
 
@@ -231,11 +231,11 @@ ADR (Average Daily Rate)
 
 
 
-📉 ROC Curve Analysis
+## ROC Curve Analysis
 The ROC Curve achieved an AUC score of 0.85, indicating strong classification performance and reliable separation between canceled and non-canceled bookings.
 
-📌 Business Recommendations
-Based on the findings:
+## Business Recommendations
+## Based on the findings:
 Recommendation 1
 Implement stricter policies for high lead-time bookings.
 Recommendation 2
@@ -247,8 +247,13 @@ Develop retention strategies for OTA customers.
 Recommendation 5
 Use predictive systems to proactively identify high-risk cancellations.
 
-📁 Project Structure
-Hotel-booking-cancellation-analysis/│├── data/│├── notebooks/│   └── Hotel_booking_analysis.ipynb│├── dashboard/│├── images/│└── README.md
+## Project Structure
+Hotel-booking-cancellation-analysis/
+- │├── data/
+│├── notebooks/
+│   └── Hotel_booking_analysis.ipynb
+│├── dashboard/│├── images/
+│└── README.md
 
 📷 Project Visuals
 Exploratory Data Analysis
