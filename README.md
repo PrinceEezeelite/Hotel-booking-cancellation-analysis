@@ -25,18 +25,18 @@ Staffing
 Customer planning
 Inventory allocation
 
-The objective of this project was to:
+## The objective of this project was to:
 
 Identify patterns behind booking cancellations
 Understand customer behavior
 Build a predictive model to detect high-risk bookings
 Generate actionable business recommendations
-📂 Dataset Information
-Dataset Used:
+## Dataset Information
+### Dataset Used:
 
 Hotel Booking Demand Dataset
 
-Dataset Includes:
+## Dataset Includes:
 Booking information
 Customer demographics
 Reservation channels
@@ -44,7 +44,7 @@ Deposit types
 Lead time
 Room allocation
 Cancellation status
-🛠️ Tools & Technologies
+## Tools & Technologies
 Tool	Purpose
 Python	Data analysis & modeling
 Pandas	Data cleaning
@@ -97,7 +97,7 @@ Outcome:
 A structured and analysis-ready dataset suitable for EDA and machine learning.
 
 
-✅ Week 2 — Exploratory Data Analysis (EDA)
+## Week 2 — Exploratory Data Analysis (EDA)
 The second phase focused on discovering patterns and business insights behind booking cancellations.
 Analyses Performed:
 
@@ -127,23 +127,23 @@ Correlation heatmap analysis
 
 
 
-📊 Key Insights
-🔹 Lead Time
+## 📊 Key Insights
+###🔹 Lead Time
 Customers who booked far in advance showed significantly higher cancellation rates.
 
-🔹 Special Requests
+###🔹 Special Requests
 Customers with more special requests were far less likely to cancel, indicating stronger booking commitment and engagement.
 
-🔹 Deposit Type
+###🔹 Deposit Type
 Bookings without deposits experienced the highest cancellation rates.
 
-🔹 Online Travel Agents (OTA)
+###🔹 Online Travel Agents (OTA)
 Bookings made through online travel agencies showed increased cancellation behavior compared to direct bookings.
 
-🔹 Previous Cancellations
+###🔹 Previous Cancellations
 Customers with a history of cancellations were more likely to cancel future bookings.
 
-💡 Business Insight
+##💡 Business Insight
 The analysis revealed that customer engagement, booking behavior, and reservation policies strongly influence cancellation risk.
 Hotels can reduce cancellations by:
 
@@ -161,11 +161,11 @@ Encouraging personalized booking experiences
 
 
 
-✅ Week 3 — Machine Learning Modeling
+## Week 3 — Machine Learning Modeling
 The final phase focused on building a predictive model capable of identifying high-risk cancellations.
 
-🤖 Model Development Process
-Steps Performed:
+## 🤖 Model Development Process
+### Steps Performed:
 
 
 Feature selection
