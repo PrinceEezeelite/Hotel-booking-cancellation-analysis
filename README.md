@@ -128,19 +128,19 @@ Correlation heatmap analysis
 
 
 ## 📊 Key Insights
-###🔹 Lead Time
+🔹 Lead Time
 Customers who booked far in advance showed significantly higher cancellation rates.
 
-###🔹 Special Requests
+🔹 Special Requests
 Customers with more special requests were far less likely to cancel, indicating stronger booking commitment and engagement.
 
-###🔹 Deposit Type
+🔹 Deposit Type
 Bookings without deposits experienced the highest cancellation rates.
 
-###🔹 Online Travel Agents (OTA)
+🔹 Online Travel Agents (OTA)
 Bookings made through online travel agencies showed increased cancellation behavior compared to direct bookings.
 
-###🔹 Previous Cancellations
+#🔹 Previous Cancellations
 Customers with a history of cancellations were more likely to cancel future bookings.
 
 ##💡 Business Insight
