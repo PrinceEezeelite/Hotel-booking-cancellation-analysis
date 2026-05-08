@@ -143,7 +143,7 @@ Bookings made through online travel agencies showed increased cancellation behav
 🔹 Previous Cancellations
 Customers with a history of cancellations were more likely to cancel future bookings.
 
-##💡 Business Insight
+##💡 Business Insight.
 The analysis revealed that customer engagement, booking behavior, and reservation policies strongly influence cancellation risk.
 Hotels can reduce cancellations by:
 
