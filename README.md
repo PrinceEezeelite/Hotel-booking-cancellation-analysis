@@ -236,15 +236,15 @@ The ROC Curve achieved an AUC score of 0.85, indicating strong classification pe
 
 ## Business Recommendations
 ## Based on the findings:
-Recommendation 1
+- Recommendation 1
 Implement stricter policies for high lead-time bookings.
-Recommendation 2
+- Recommendation 2
 Encourage non-refundable or partial deposit bookings.
-Recommendation 3
+- Recommendation 3
 Improve customer engagement through personalized booking options.
-Recommendation 4
+- Recommendation 4
 Develop retention strategies for OTA customers.
-Recommendation 5
+- Recommendation 5
 Use predictive systems to proactively identify high-risk cancellations.
 
 ## Project Structure
@@ -263,17 +263,15 @@ Hotel-booking-cancellation-analysis/
 └── README.md
 
 ## Project Visuals
-Exploratory Data Analysis
-<img width="846" height="620" alt="Cancellation Rate by Market Segment" src="https://github.com/user-attachments/assets/127e9c85-eb6b-4e08-a6a6-e073b928a666" />
-<img width="589" height="453" alt="Cancellation Distribution" src="https://github.com/user-attachments/assets/5fb6b4fb-0d44-43ea-bdc8-84e8b9d4a884" />
+## Exploratory Data Analysis
 <img width="567" height="453" alt="Cancellation Rate by Lead Time Group" src="https://github.com/user-attachments/assets/e4238e0c-a459-4920-a0ae-9d594a76e0a7" />
 
 
-ROC Curve
+## ROC Curve
 <img width="691" height="545" alt="roc_curve" src="https://github.com/user-attachments/assets/d17b62b9-75a7-4935-a8dd-ca42d342665a" />
 
 
-Feature Importance
+## Feature Importance
 <img width="304" height="204" alt="Features important" src="https://github.com/user-attachments/assets/1d3a33ca-106e-4400-8c38-46eade9187c4" />
 
 
