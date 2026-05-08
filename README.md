@@ -92,7 +92,7 @@ The following features were created to enhance analysis:
 
 ---
 
-Outcome:
+## Outcome:
 
 A structured and analysis-ready dataset suitable for EDA and machine learning.
 
@@ -143,9 +143,10 @@ Bookings made through online travel agencies showed increased cancellation behav
 🔹 Previous Cancellations
 Customers with a history of cancellations were more likely to cancel future bookings.
 
-##💡 Business Insight.
+## 💡 Business Insight
+
 The analysis revealed that customer engagement, booking behavior, and reservation policies strongly influence cancellation risk.
-Hotels can reduce cancellations by:
+## Hotels can reduce cancellations by:
 
 
 Encouraging deposit-based bookings
@@ -265,7 +266,8 @@ Hotel-booking-cancellation-analysis/
 ## Project Visuals
 ## Exploratory Data Analysis
 <img width="567" height="453" alt="Cancellation Rate by Lead Time Group" src="https://github.com/user-attachments/assets/e4238e0c-a459-4920-a0ae-9d594a76e0a7" />
-
+<img width="846" height="620" alt="Cancellation Rate by Market Segment" src="https://github.com/user-attachments/assets/585d93a2-43fa-4ea6-9b93-e85a2346f89a" />
+<img width="589" height="453" alt="Cancellation Distribution" src="https://github.com/user-attachments/assets/a3e563b6-de98-47c7-a807-65a98529a2ae" />
 
 ## ROC Curve
 <img width="691" height="545" alt="roc_curve" src="https://github.com/user-attachments/assets/d17b62b9-75a7-4935-a8dd-ca42d342665a" />
