@@ -1,15 +1,58 @@
-# 🏨 Hotel Booking Cancellation & Pricing Analysis
+🏨 Hotel Booking Cancellation Analysis
+📌 Project Background
 
-## 📌 Project Overview
-This project analyzes hotel booking data to uncover the key drivers behind customer cancellations and pricing behavior. The goal is to provide actionable insights that can help revenue managers reduce cancellations and optimize pricing strategies.
+Hotels frequently experience booking cancellations, leading to:
 
----
+Revenue loss
+Inefficient room allocation
+Poor operational forecasting
 
-## 🎯 Business Problem
-In the hospitality industry, high cancellation rates lead to significant revenue loss. Hotels need to understand:
-- Why customers cancel bookings
-- Which customer segments are high-risk
-- How pricing and seasonality affect demand
+In this project, I analyzed hotel booking data to uncover the major drivers of booking cancellations and built a machine learning model capable of predicting high-risk cancellations.
+
+The project combines:
+
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Business Insight Generation
+Predictive Modeling
+🎯 Business Problem
+
+Hotel cancellations create uncertainty in:
+
+Revenue management
+Staffing
+Customer planning
+Inventory allocation
+
+The objective of this project was to:
+
+Identify patterns behind booking cancellations
+Understand customer behavior
+Build a predictive model to detect high-risk bookings
+Generate actionable business recommendations
+📂 Dataset Information
+Dataset Used:
+
+Hotel Booking Demand Dataset
+
+Dataset Includes:
+Booking information
+Customer demographics
+Reservation channels
+Deposit types
+Lead time
+Room allocation
+Cancellation status
+🛠️ Tools & Technologies
+Tool	Purpose
+Python	Data analysis & modeling
+Pandas	Data cleaning
+NumPy	Numerical operations
+Matplotlib	Data visualization
+Seaborn	Exploratory analysis
+Scikit-learn	Machine learning
+Jupyter Notebook	Development environment
+GitHub	Version control & portfolio
 
 ---
 
@@ -48,26 +91,213 @@ The following features were created to enhance analysis:
 
 ---
 
-## 🛠️ Tools & Technologies
-- Python (Pandas, NumPy)
-- Jupyter Notebook
-- GitHub (Version Control)
+Outcome:
 
----
+A structured and analysis-ready dataset suitable for EDA and machine learning.
 
-## 📊 Key Outcome
-A clean, structured dataset ready for:
-- Exploratory Data Analysis (EDA)
-- Customer segmentation
-- Predictive modeling (churn prediction)
 
----
+✅ Week 2 — Exploratory Data Analysis (EDA)
+The second phase focused on discovering patterns and business insights behind booking cancellations.
+Analyses Performed:
 
-## 📁 Project Structure
-  project/
-│
-├── data/
-├── notebooks/
-├── images/
-├── dashboard/
-├── README.md
+
+Booking cancellation trends
+
+
+Lead time analysis
+
+
+Deposit type impact
+
+
+Market segment behavior
+
+
+Customer type analysis
+
+
+Length of stay analysis
+
+
+Special requests analysis
+
+
+Correlation heatmap analysis
+
+
+
+📊 Key Insights
+🔹 Lead Time
+Customers who booked far in advance showed significantly higher cancellation rates.
+
+🔹 Special Requests
+Customers with more special requests were far less likely to cancel, indicating stronger booking commitment and engagement.
+
+🔹 Deposit Type
+Bookings without deposits experienced the highest cancellation rates.
+
+🔹 Online Travel Agents (OTA)
+Bookings made through online travel agencies showed increased cancellation behavior compared to direct bookings.
+
+🔹 Previous Cancellations
+Customers with a history of cancellations were more likely to cancel future bookings.
+
+💡 Business Insight
+The analysis revealed that customer engagement, booking behavior, and reservation policies strongly influence cancellation risk.
+Hotels can reduce cancellations by:
+
+
+Encouraging deposit-based bookings
+
+
+Monitoring long lead-time reservations
+
+
+Improving OTA booking retention strategies
+
+
+Encouraging personalized booking experiences
+
+
+
+✅ Week 3 — Machine Learning Modeling
+The final phase focused on building a predictive model capable of identifying high-risk cancellations.
+
+🤖 Model Development Process
+Steps Performed:
+
+
+Feature selection
+
+
+Categorical variable encoding
+
+
+Train-test split
+
+
+Feature scaling using StandardScaler
+
+
+Logistic Regression model training
+
+
+Performance evaluation
+
+
+
+📈 Model Evaluation
+Evaluation Techniques:
+
+
+Confusion Matrix
+
+
+Classification Report
+
+
+ROC Curve
+
+
+AUC Score
+
+
+Feature Importance Analysis
+
+
+
+📊 Model Performance
+MetricScoreAccuracy76%Recall (Cancellation Detection)79%AUC Score0.85
+
+🧠 Model Interpretation
+The model demonstrated strong ability to distinguish canceled bookings from non-canceled bookings.
+Most Influential Features:
+
+
+Lead Time
+
+
+Previous Cancellations
+
+
+Deposit Type
+
+
+Online Travel Agents
+
+
+ADR (Average Daily Rate)
+
+
+
+📉 ROC Curve Analysis
+The ROC Curve achieved an AUC score of 0.85, indicating strong classification performance and reliable separation between canceled and non-canceled bookings.
+
+📌 Business Recommendations
+Based on the findings:
+Recommendation 1
+Implement stricter policies for high lead-time bookings.
+Recommendation 2
+Encourage non-refundable or partial deposit bookings.
+Recommendation 3
+Improve customer engagement through personalized booking options.
+Recommendation 4
+Develop retention strategies for OTA customers.
+Recommendation 5
+Use predictive systems to proactively identify high-risk cancellations.
+
+📁 Project Structure
+Hotel-booking-cancellation-analysis/│├── data/│├── notebooks/│   └── Hotel_booking_analysis.ipynb│├── dashboard/│├── images/│└── README.md
+
+📷 Project Visuals
+Exploratory Data Analysis
+(Add charts/screenshots here)
+
+ROC Curve
+(Add ROC curve screenshot here)
+
+Feature Importance
+(Add feature importance screenshot here)
+
+🚀 Future Improvements
+
+
+Random Forest & XGBoost models
+
+
+Hyperparameter tuning
+
+
+Interactive dashboard development
+
+
+Real-time prediction deployment
+
+
+Streamlit web application
+
+
+
+👤 Author
+PrinceEezeelite
+Aspiring Data Analyst focused on:
+
+
+Data Analytics
+
+
+Machine Learning
+
+
+Business Intelligence
+
+
+Data-driven decision making
+
+
+
+⭐ Project Status
+✅ Completed
+✅ Portfolio Ready
+✅ Open for collaboration and feedback
+
