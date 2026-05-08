@@ -266,7 +266,9 @@ Hotel-booking-cancellation-analysis/
 ## Project Visuals
 ## Exploratory Data Analysis
 <img width="567" height="453" alt="Cancellation Rate by Lead Time Group" src="https://github.com/user-attachments/assets/e4238e0c-a459-4920-a0ae-9d594a76e0a7" />
+
 <img width="846" height="620" alt="Cancellation Rate by Market Segment" src="https://github.com/user-attachments/assets/585d93a2-43fa-4ea6-9b93-e85a2346f89a" />
+
 <img width="589" height="453" alt="Cancellation Distribution" src="https://github.com/user-attachments/assets/a3e563b6-de98-47c7-a807-65a98529a2ae" />
 
 ## ROC Curve
